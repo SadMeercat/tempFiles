@@ -1,3 +1,4 @@
+//Задача про алкашей
 double[] limits = new double[4] {1.1, 2.5, 2.2, 3.3};
 int durationWalk = 15;
 int durationDrink = 15;
@@ -28,7 +29,7 @@ void Counting(double limit, int countPubs)
 }
 
 Console.WriteLine("-----------------------------------------------");
-
+//Задача про взаимно простые числа
 Console.Write("Число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
